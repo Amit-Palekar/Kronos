@@ -5,7 +5,7 @@ cam = cv2.VideoCapture(0)
 if not cam.isOpened():
     print("Camera could not be opened.")
 
-DELTA_FRAMES = 2.5;
+DELTA_FRAMES = 0.4;
 FRAME_COUNT = 10
 
 face_cascade = cv2.CascadeClassifier('haarcascade_face.xml')
