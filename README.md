@@ -1,4 +1,4 @@
-# NASA
+# Kronos
 
 ## Goals
 The purpose of the project was to create a rotation invariant face-tracking application that could track faces regardless of orientation.
